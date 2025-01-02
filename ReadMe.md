@@ -1,6 +1,7 @@
 # 用法
 
 python Artfuscator.py
+
 nasm -f win32 .\output.asm
 
 # 展示
